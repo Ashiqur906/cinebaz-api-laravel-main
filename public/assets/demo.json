@@ -1,0 +1,1256 @@
+{
+    "register_page": "https://iqonic.design/wp-themes/streamit_wp/register/",
+    "account_page": "https://iqonic.design/wp-themes/streamit_wp/account/",
+    "login_page": "https://iqonic.design/wp-themes/streamit_wp/login/",
+    "banner": [
+        {
+            "id": 6153,
+            "title": "Ghost Couple",
+            "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/Gc2-300x300.jpg",
+            "description": "The could&nbsp;dress up with your beau for some trick or treating, or you could just snuggle up with a&nbsp;fall cocktail&nbsp;and a&nbsp;spooky Halloween flick. Pardon us while we go with what’s behind door number two. We can’t, err, mask our excitement for the holiday that demands its revelers partake in as many&nbsp;activities that scare them&nbsp;to the bone as they can, like&nbsp;reading chilling short stories, or&nbsp;spending two hours with blood thirsty vampires.",
+            "excerpt": "The could dress up with your beau for some trick or treating, or you could just snuggle up with a fall cocktail and a spooky Halloween flick. Pardon us while we go with what’s behind door number two. We can’t, err, mask our excitement for the holiday that demands its revelers partake in as many activities that scare them to the bone as they can, like reading chilling short stories, or spending two hours with blood thirsty vampires.",
+            "is_featured": false,
+            "likes": 49,
+            "post_type": "movie",
+            "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+            "restrict_subscription_plan": [],
+            "restrict_user_status": "",
+            "restriction_setting": {
+                "restrict_type": ""
+            },
+            "is_liked": null,
+            "is_watchlist": null,
+            "avg_rating": "0",
+            "publish_date": "2020-11-10 08:46:50",
+            "publish_date_gmt": "2020-11-10 08:46:50",
+            "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+            "movie_choice": "movie_embed",
+            "movie_file": null,
+            "url_link": "https://www.youtube.com/watch?v=EngW7tLk6R8",
+            "tag": [
+                {
+                    "id": 217,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 231,
+                    "name": "Animation",
+                    "slug": "animation"
+                },
+                {
+                    "id": 230,
+                    "name": "Horror",
+                    "slug": "horror"
+                }
+            ],
+            "genre": [
+                {
+                    "id": 145,
+                    "name": "History",
+                    "slug": "history"
+                }
+            ],
+            "visibility": [],
+            "run_time": "3hr : 10mins",
+            "censor_rating": "GP",
+            "release_date": "November 12, 2019",
+            "views": 935,
+            "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+            "cast": "Mark Livolsi,Caleb Deschanel",
+            "no_of_comments": 0,
+            "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+            "imdb_rating": 4.45,
+            "attachment": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/terabitha-min-2.jpg"
+        },
+        {
+            "id": 6151,
+            "title": "Worst Vampire",
+            "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/vamp-300x300.jpg",
+            "description": "The writers at&nbsp;We Are Movie Geeks&nbsp;have counted down our collective top 10 of the worst vampires in film history. &nbsp;These are creatures of the night so goofy, so lame, and so odd, they make us dream of the days of Max Schreck. &nbsp;Hell, they make us long for the days of Willem Dafoe playing Max Schreck. &nbsp;So hear you are, sans Nicolas Cage from VAMPIRE’S KISS, even, the ten worst vampires in motion picture history.",
+            "excerpt": "The writers at We Are Movie Geeks have counted down our collective top 10 of the worst vampires in film history.  These are creatures of the night so goofy, so lame, and so odd, they make us dream of the days of Max Schreck.  Hell, they make us long for the days of Willem Dafoe playing Max Schreck.  So hear you are, sans Nicolas Cage from VAMPIRE’S KISS, even, the ten worst vampires in motion picture history.",
+            "is_featured": false,
+            "likes": 21,
+            "post_type": "movie",
+            "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+            "restrict_subscription_plan": [],
+            "restrict_user_status": "",
+            "restriction_setting": {
+                "restrict_type": ""
+            },
+            "is_liked": null,
+            "is_watchlist": null,
+            "avg_rating": "0",
+            "publish_date": "2020-11-10 08:46:19",
+            "publish_date_gmt": "2020-11-10 08:46:19",
+            "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+            "movie_choice": "movie_embed",
+            "movie_file": null,
+            "url_link": "",
+            "tag": [
+                {
+                    "id": 217,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                },
+                {
+                    "id": 233,
+                    "name": "Drama",
+                    "slug": "drama"
+                },
+                {
+                    "id": 230,
+                    "name": "Horror",
+                    "slug": "horror"
+                },
+                {
+                    "id": 234,
+                    "name": "Thriller",
+                    "slug": "thriller"
+                }
+            ],
+            "genre": [
+                {
+                    "id": 57,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ],
+            "visibility": [],
+            "run_time": "2hr : 48mins",
+            "censor_rating": "GP",
+            "release_date": "February 21, 2018",
+            "views": 588,
+            "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+            "cast": "Hans Zimmer,Jeff Nathanson",
+            "no_of_comments": 0,
+            "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+            "imdb_rating": 4.7,
+            "attachment": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/zombie-768x432.jpg"
+        },
+        {
+            "id": 7230,
+            "title": "Pirates of Sea",
+            "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/12/pirates-300x300.jpg",
+            "description": "Piracy&nbsp;is an act of&nbsp;robbery&nbsp;or&nbsp;criminal&nbsp;violence&nbsp;by&nbsp;ship&nbsp;or boat-borne attackers upon another ship or a coastal area, typically with the goal of stealing cargo and other valuable items or properties.",
+            "excerpt": "Piracy is an act of robbery or criminal violence by ship or boat-borne attackers upon another ship or a coastal area, typically with the goal of stealing cargo and other valuable items or properties.",
+            "is_featured": false,
+            "likes": 109,
+            "post_type": "movie",
+            "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+            "restrict_subscription_plan": [],
+            "restrict_user_status": "",
+            "restriction_setting": {
+                "restrict_type": ""
+            },
+            "is_liked": null,
+            "is_watchlist": null,
+            "avg_rating": "0",
+            "publish_date": "2020-12-02 10:35:26",
+            "publish_date_gmt": "2020-12-02 10:35:26",
+            "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>",
+            "movie_choice": "movie_embed",
+            "movie_file": null,
+            "url_link": "",
+            "tag": [
+                {
+                    "id": 218,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 217,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ],
+            "genre": [
+                {
+                    "id": 61,
+                    "name": "Action",
+                    "slug": "action"
+                },
+                {
+                    "id": 57,
+                    "name": "Adventure",
+                    "slug": "adventure"
+                }
+            ],
+            "visibility": [],
+            "run_time": "1hr : 45mins",
+            "censor_rating": "NC-17",
+            "release_date": "January 2, 2020",
+            "views": 1891,
+            "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+            "cast": "James Chinlund,James Earl Jones",
+            "no_of_comments": 0,
+            "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+            "imdb_rating": 4.75,
+            "attachment": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/banner-01-768x432.jpg"
+        }
+    ],
+    "sliders": [
+        {
+            "title": "Latest",
+            "view_all": true,
+            "data": [
+                {
+                    "id": 8416,
+                    "title": "Logan",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/01-300x300.jpg",
+                    "description": "In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.",
+                    "excerpt": "In the near future, a weary Logan cares for an ailing Professor X in a hide out on the Mexican border. But Logan's attempts to hide from the world and his legacy are up-ended when a young mutant arrives, being pursued by dark forces.",
+                    "is_featured": true,
+                    "likes": 5,
+                    "post_type": "video",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:58:00",
+                    "publish_date_gmt": "2021-03-11 05:58:00",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "video_choice": "video_embed",
+                    "video_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "cat": [
+                        {
+                            "id": 99,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        }
+                    ],
+                    "run_time": "1hr : 22mins",
+                    "views": 257,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ&t=6s"
+                },
+                {
+                    "id": 8415,
+                    "title": "X-Men",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/02-300x300.jpg",
+                    "description": "In the near future, \"mutants\" are the next link in the chain of evolution. Each are born with a genetic mutation that manifests into extraordinary powers. Under the tutelage of Professor Charles Xavier (Patrick Stewart), the world's most powerful telepath, these \"gifted\" students have learned to control and direct their respective powers for the greater good of mankind. But when the Professor's former colleague and friend, Erik Lehnsherr a.k.a. Magneto (Ian McKellen) wages war against them and society, Xavier brings together a special group of mutants called \"X-Men\" to protect the world that fears them.",
+                    "excerpt": "In the near future, \"mutants\" are the next link in the chain of evolution. Each are born with a genetic mutation that manifests into extraordinary powers. Under the tutelage of Professor Charles Xavier (Patrick Stewart), the world's most powerful telepath, these \"gifted\" students have learned to control and direct their respective powers for the greater good of mankind. But when the Professor's former colleague and friend, Erik Lehnsherr a.k.a. Magneto (Ian McKellen) wages war against them and society, Xavier brings together a special group of mutants called \"X-Men\" to protect the world that fears them.",
+                    "is_featured": false,
+                    "likes": 5,
+                    "post_type": "video",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:56:17",
+                    "publish_date_gmt": "2021-03-11 05:56:17",
+                    "embed_content": "",
+                    "video_choice": "video_file",
+                    "video_file": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/12/trailer.mp4",
+                    "url_link": "",
+                    "tag": [
+                        {
+                            "id": 289,
+                            "name": "Action",
+                            "slug": "action"
+                        }
+                    ],
+                    "cat": [
+                        {
+                            "id": 99,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 178,
+                            "name": "Sci-Fi",
+                            "slug": "sci-fi"
+                        }
+                    ],
+                    "run_time": "1hr : 45mins",
+                    "views": 232,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=XHOmBV4js_E"
+                },
+                {
+                    "id": 8414,
+                    "title": "Narnia",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/03-300x300.jpg",
+                    "description": "Prepare to enter another world when Walt Disney Pictures and Walden Media present C.S. Lewis' timeless and beloved epic adventure. With the stunningly realistic special effects, you'll experience the exploits of Lucy, Edmund, Susan and Peter, four siblings who find the world of Narnia through a magical wardrobe while playing a game of \"hide-and-seek\" at the country estate of a mysterious professor. Once there, the children discover a charming, once peaceful land inhabited by talking beasts, dwarfs, fauns, centaurs and giants that has been turned into a world of eternal winter by the evil White Witch, Jadis.",
+                    "excerpt": "Prepare to enter another world when Walt Disney Pictures and Walden Media present C.S. Lewis' timeless and beloved epic adventure. With the stunningly realistic special effects, you'll experience the exploits of Lucy, Edmund, Susan and Peter, four siblings who find the world of Narnia through a magical wardrobe while playing a game of \"hide-and-seek\" at the country estate of a mysterious professor. Once there, the children discover a charming, once peaceful land inhabited by talking beasts, dwarfs, fauns, centaurs and giants that has been turned into a world of eternal winter by the evil White Witch, Jadis.",
+                    "is_featured": true,
+                    "likes": 6,
+                    "post_type": "video",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:54:36",
+                    "publish_date_gmt": "2021-03-11 05:54:36",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "video_choice": "video_embed",
+                    "video_file": null,
+                    "url_link": "",
+                    "tag": [
+                        {
+                            "id": 289,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 291,
+                            "name": "Drama",
+                            "slug": "drama"
+                        }
+                    ],
+                    "cat": [
+                        {
+                            "id": 99,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 104,
+                            "name": "Animation",
+                            "slug": "animation"
+                        }
+                    ],
+                    "run_time": "3hr : 10mins",
+                    "views": 217,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=XHOmBV4js_E"
+                },
+                {
+                    "id": 8413,
+                    "title": "Shadow Warrior",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/04-300x300.jpg",
+                    "description": "A shadow is a dark (real image) area where light from a light source is blocked by an opaque object. It occupies all of the three-dimensional volume behind an object with light in front of it.",
+                    "excerpt": "A shadow is a dark (real image) area where light from a light source is blocked by an opaque object. It occupies all of the three-dimensional volume behind an object with light in front of it.",
+                    "is_featured": false,
+                    "likes": 3,
+                    "post_type": "video",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:52:11",
+                    "publish_date_gmt": "2021-03-11 05:52:11",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "video_choice": "video_embed",
+                    "video_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "cat": [
+                        {
+                            "id": 99,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 104,
+                            "name": "Animation",
+                            "slug": "animation"
+                        }
+                    ],
+                    "run_time": "1hr : 50mins",
+                    "views": 195,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=XHOmBV4js_E"
+                },
+                {
+                    "id": 8412,
+                    "title": "The world worrier",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/05-300x300.jpg",
+                    "description": "The Revenge&nbsp; warrior is a level 28 Protection&nbsp;warrior&nbsp;ability. It is a high-damage melee attack that deals damage to all enemies in front of the warrior. Dodging or parrying an attack will cause the next Revenge to be free.This ability is usually the best way to hold a&nbsp;mob's attention.",
+                    "excerpt": "The Revenge warrior is a level 28 Protection warrior ability. It is a high-damage melee attack that deals damage to all enemies in front of the warrior. Dodging or parrying an attack will cause the next Revenge to be free.This ability is usually the best way to hold a mob's attention.",
+                    "is_featured": true,
+                    "likes": 2,
+                    "post_type": "video",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:50:02",
+                    "publish_date_gmt": "2021-03-11 05:50:02",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/eZcdWET1HjU\" allowfullscreen></iframe>",
+                    "video_choice": "video_embed",
+                    "video_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "cat": [
+                        {
+                            "id": 99,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 102,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        }
+                    ],
+                    "run_time": "2hr : 10mins",
+                    "views": 177,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=XHOmBV4js_E"
+                },
+                {
+                    "id": 8411,
+                    "title": "Jungle",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2021/03/06-300x300.jpg",
+                    "description": "It's the one you have all been waiting for! The FULL Jungle Beat Season 3 Compilation for you to enjoy!!",
+                    "excerpt": "It's the one you have all been waiting for! The FULL Jungle Beat Season 3 Compilation for you to enjoy!!",
+                    "is_featured": false,
+                    "likes": 0,
+                    "post_type": "video",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "publish_date": "2021-03-11 05:48:23",
+                    "publish_date_gmt": "2021-03-11 05:48:23",
+                    "embed_content": "",
+                    "video_choice": "video_url",
+                    "video_file": null,
+                    "url_link": "https://www.youtube.com/watch?v=XHOmBV4js_E",
+                    "tag": [
+                        {
+                            "id": 285,
+                            "name": "adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 287,
+                            "name": "Animation",
+                            "slug": "animation"
+                        }
+                    ],
+                    "cat": [
+                        {
+                            "id": 102,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 104,
+                            "name": "Animation",
+                            "slug": "animation"
+                        }
+                    ],
+                    "run_time": "2hr : 45mins",
+                    "views": 133,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=XHOmBV4js_E"
+                }
+            ]
+        },
+        {
+            "title": "Upcoming",
+            "view_all": true,
+            "data": [
+                {
+                    "id": 7487,
+                    "title": "Zombie Island",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/zombie-300x300.jpg",
+                    "description": "Zombie Island&nbsp;is a 1998&nbsp;direct-to-video&nbsp;animated&nbsp;comedy horror&nbsp;film based on&nbsp;Hanna-Barbera's&nbsp;Scooby-Doo&nbsp;Saturday-morning cartoons. In the film, Shaggy, Scooby, Fred, Velma, and Daphne reunite after a year-long hiatus from Mystery, Inc. to investigate a bayou island said to be haunted by the ghost of the pirate Morgan Moonscar. The film was directed by Jim Stenstrum, from a screenplay by&nbsp;Glenn Leopold.",
+                    "excerpt": "Zombie Island is a 1998 direct-to-video animated comedy horror film based on Hanna-Barbera's Scooby-Doo Saturday-morning cartoons. In the film, Shaggy, Scooby, Fred, Velma, and Daphne reunite after a year-long hiatus from Mystery, Inc. to investigate a bayou island said to be haunted by the ghost of the pirate Morgan Moonscar. The film was directed by Jim Stenstrum, from a screenplay by Glenn Leopold.",
+                    "is_featured": false,
+                    "likes": 18,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2020-11-05 12:41:29",
+                    "publish_date_gmt": "2020-11-05 12:41:29",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 58,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        }
+                    ],
+                    "visibility": [],
+                    "run_time": "1hr : 48mins",
+                    "censor_rating": "Horror",
+                    "release_date": "February 28, 2021",
+                    "views": 712,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "John Bartnicki,Christoph Johnson",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.8
+                },
+                {
+                    "id": 724,
+                    "title": "Mission Space",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/02/movie-bcd-300x300.png",
+                    "description": "Take flight on a family-friendly adventure that’s sure to excite. The Green Mission offers a gentler, more family-friendly adventure for space explorers 40” and taller. It uses a motion simulator that offers light movement and doesn’t spin—so it’s less likely to cause motion sickness.",
+                    "excerpt": "Take flight on a family-friendly adventure that’s sure to excite. The Green Mission offers a gentler, more family-friendly adventure for space explorers 40” and taller. It uses a motion simulator that offers light movement and doesn’t spin—so it’s less likely to cause motion sickness.",
+                    "is_featured": true,
+                    "likes": 17,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [
+                        {
+                            "id": "8269",
+                            "label": "Premium"
+                        }
+                    ],
+                    "restrict_user_status": "loggedin",
+                    "restriction_setting": {
+                        "restrict_type": "message",
+                        "restrict_message": "You must be logged in to view this content."
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-02-15 13:23:02",
+                    "publish_date_gmt": "2019-02-15 13:23:02",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/oFswDITQM7I",
+                    "tag": [
+                        {
+                            "id": 244,
+                            "name": "History.",
+                            "slug": "history-2"
+                        },
+                        {
+                            "id": 237,
+                            "name": "Mystery",
+                            "slug": "mystery"
+                        },
+                        {
+                            "id": 241,
+                            "name": "Sci-Fi",
+                            "slug": "sci-fi"
+                        },
+                        {
+                            "id": 243,
+                            "name": "Space",
+                            "slug": "space"
+                        }
+                    ],
+                    "genre": [
+                        {
+                            "id": 58,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 129,
+                            "name": "Dram",
+                            "slug": "dram"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 135,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 176,
+                            "name": "Sci-Fi",
+                            "slug": "sci-fi"
+                        },
+                        {
+                            "id": 183,
+                            "name": "Thiller",
+                            "slug": "thiller"
+                        }
+                    ],
+                    "visibility": [
+                        {
+                            "id": 43,
+                            "name": "featured",
+                            "slug": "featured"
+                        }
+                    ],
+                    "run_time": "1hr : 24 mins",
+                    "censor_rating": "G",
+                    "release_date": "April 19, 2016",
+                    "views": 575,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Jeff Nathanson,Jeffrey Silver",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.3
+                },
+                {
+                    "id": 716,
+                    "title": "Black Pearl",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/02/movie-12-300x300.jpg",
+                    "description": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+                    "excerpt": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+                    "is_featured": true,
+                    "likes": 31,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-02-15 13:22:55",
+                    "publish_date_gmt": "2019-02-15 13:22:55",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/cEZ42DwKKZw",
+                    "tag": [
+                        {
+                            "id": 231,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 239,
+                            "name": "Comedy",
+                            "slug": "comedy"
+                        },
+                        {
+                            "id": 219,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 234,
+                            "name": "Thriller",
+                            "slug": "thriller"
+                        }
+                    ],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 57,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 105,
+                            "name": "Annimation",
+                            "slug": "annimation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 59,
+                            "name": "Family",
+                            "slug": "family"
+                        },
+                        {
+                            "id": 135,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 173,
+                            "name": "Romance",
+                            "slug": "romance"
+                        }
+                    ],
+                    "visibility": [
+                        {
+                            "id": 43,
+                            "name": "featured",
+                            "slug": "featured"
+                        }
+                    ],
+                    "run_time": "1hr : 24mins",
+                    "censor_rating": "PG",
+                    "release_date": "June 18, 2016",
+                    "views": 898,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Debbi Bossi,James Chinlund",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4
+                }
+            ]
+        },
+        {
+            "title": "Suggested For You",
+            "view_all": true,
+            "data": [
+                {
+                    "id": 7488,
+                    "title": "My Office Boss",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/boss-300x300.jpg",
+                    "description": "Boss is around the corner and you have no idea what to do then we must tell you “Birthday” of your Boss is the perfect day to express gratitude and tell him/her how amazing he/she is and what role they have played in grooming you. Picking a birthday wish is not easy, even if your Boss is the best Boss in the world.&nbsp;",
+                    "excerpt": "Boss is around the corner and you have no idea what to do then we must tell you “Birthday” of your Boss is the perfect day to express gratitude and tell him/her how amazing he/she is and what role they have played in grooming you. Picking a birthday wish is not easy, even if your Boss is the best Boss in the world.",
+                    "is_featured": false,
+                    "likes": 27,
+                    "post_type": "movie",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2020-11-05 12:43:40",
+                    "publish_date_gmt": "2020-11-05 12:43:40",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/0NnJdXjJp-E\" allowfullscreen></iframe>",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        }
+                    ],
+                    "visibility": [],
+                    "run_time": "2hr : 38mins",
+                    "censor_rating": "Drama",
+                    "release_date": "February 10, 2021",
+                    "views": 792,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Florence Kasumba,Mark Livolsi",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.95
+                },
+                {
+                    "id": 7487,
+                    "title": "Zombie Island",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/11/zombie-300x300.jpg",
+                    "description": "Zombie Island&nbsp;is a 1998&nbsp;direct-to-video&nbsp;animated&nbsp;comedy horror&nbsp;film based on&nbsp;Hanna-Barbera's&nbsp;Scooby-Doo&nbsp;Saturday-morning cartoons. In the film, Shaggy, Scooby, Fred, Velma, and Daphne reunite after a year-long hiatus from Mystery, Inc. to investigate a bayou island said to be haunted by the ghost of the pirate Morgan Moonscar. The film was directed by Jim Stenstrum, from a screenplay by&nbsp;Glenn Leopold.",
+                    "excerpt": "Zombie Island is a 1998 direct-to-video animated comedy horror film based on Hanna-Barbera's Scooby-Doo Saturday-morning cartoons. In the film, Shaggy, Scooby, Fred, Velma, and Daphne reunite after a year-long hiatus from Mystery, Inc. to investigate a bayou island said to be haunted by the ghost of the pirate Morgan Moonscar. The film was directed by Jim Stenstrum, from a screenplay by Glenn Leopold.",
+                    "is_featured": false,
+                    "likes": 18,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2020-11-05 12:41:29",
+                    "publish_date_gmt": "2020-11-05 12:41:29",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "",
+                    "tag": [],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 58,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        }
+                    ],
+                    "visibility": [],
+                    "run_time": "1hr : 48mins",
+                    "censor_rating": "Horror",
+                    "release_date": "February 28, 2021",
+                    "views": 712,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "John Bartnicki,Christoph Johnson",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.8
+                },
+                {
+                    "id": 7472,
+                    "title": "The Illusion",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/03/movies01-300x300.jpg",
+                    "description": "An illusion is a distortion of the senses, which can reveal how the human brain normally organizes and interprets sensory stimulation. Although illusions distort our perception of reality, they are generally shared by most people.&nbsp;",
+                    "excerpt": "An illusion is a distortion of the senses, which can reveal how the human brain normally organizes and interprets sensory stimulation. Although illusions distort our perception of reality, they are generally shared by most people.",
+                    "is_featured": false,
+                    "likes": 2,
+                    "post_type": "movie",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [
+                        {
+                            "id": "8267",
+                            "label": "Basic"
+                        }
+                    ],
+                    "restrict_user_status": "loggedin",
+                    "restriction_setting": {
+                        "restrict_type": "message",
+                        "restrict_message": "You must be logged in to view this content."
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-03-05 09:16:59",
+                    "publish_date_gmt": "2019-03-05 09:16:59",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/b4f8mkRroa0\" allowfullscreen></iframe>",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/rKVEoyTedv4",
+                    "tag": [],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 135,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 149,
+                            "name": "Horror",
+                            "slug": "horror"
+                        },
+                        {
+                            "id": 160,
+                            "name": "Mystery",
+                            "slug": "mystery"
+                        }
+                    ],
+                    "visibility": [],
+                    "run_time": "1hr : 22mins",
+                    "censor_rating": "Action",
+                    "release_date": "May 4, 2017",
+                    "views": 464,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Linda Woolverton,Karen Gilchrist",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.5
+                },
+                {
+                    "id": 724,
+                    "title": "Mission Space",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/02/movie-bcd-300x300.png",
+                    "description": "Take flight on a family-friendly adventure that’s sure to excite. The Green Mission offers a gentler, more family-friendly adventure for space explorers 40” and taller. It uses a motion simulator that offers light movement and doesn’t spin—so it’s less likely to cause motion sickness.",
+                    "excerpt": "Take flight on a family-friendly adventure that’s sure to excite. The Green Mission offers a gentler, more family-friendly adventure for space explorers 40” and taller. It uses a motion simulator that offers light movement and doesn’t spin—so it’s less likely to cause motion sickness.",
+                    "is_featured": true,
+                    "likes": 17,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [
+                        {
+                            "id": "8269",
+                            "label": "Premium"
+                        }
+                    ],
+                    "restrict_user_status": "loggedin",
+                    "restriction_setting": {
+                        "restrict_type": "message",
+                        "restrict_message": "You must be logged in to view this content."
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-02-15 13:23:02",
+                    "publish_date_gmt": "2019-02-15 13:23:02",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/oFswDITQM7I",
+                    "tag": [
+                        {
+                            "id": 244,
+                            "name": "History.",
+                            "slug": "history-2"
+                        },
+                        {
+                            "id": 237,
+                            "name": "Mystery",
+                            "slug": "mystery"
+                        },
+                        {
+                            "id": 241,
+                            "name": "Sci-Fi",
+                            "slug": "sci-fi"
+                        },
+                        {
+                            "id": 243,
+                            "name": "Space",
+                            "slug": "space"
+                        }
+                    ],
+                    "genre": [
+                        {
+                            "id": 58,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 129,
+                            "name": "Dram",
+                            "slug": "dram"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 135,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 176,
+                            "name": "Sci-Fi",
+                            "slug": "sci-fi"
+                        },
+                        {
+                            "id": 183,
+                            "name": "Thiller",
+                            "slug": "thiller"
+                        }
+                    ],
+                    "visibility": [
+                        {
+                            "id": 43,
+                            "name": "featured",
+                            "slug": "featured"
+                        }
+                    ],
+                    "run_time": "1hr : 24 mins",
+                    "censor_rating": "G",
+                    "release_date": "April 19, 2016",
+                    "views": 575,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Jeff Nathanson,Jeffrey Silver",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.3
+                },
+                {
+                    "id": 718,
+                    "title": "Jumbo Queen",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/03/movies05-300x300.jpg",
+                    "description": "Jumbo&nbsp; also known as&nbsp;Jumbo the Elephant&nbsp;and&nbsp;Jumbo the Circus Elephant, was a 19th-century male&nbsp;African bush elephant&nbsp;born in&nbsp;Sudan. Jumbo was exported to&nbsp;Jardin des Plantes, a zoo in&nbsp;Paris, and then transferred in 1865 to&nbsp;London Zoo&nbsp;in England. Despite public protest, Jumbo was sold to&nbsp;P. T. Barnum, who took him to the United States for exhibition in March 1882.",
+                    "excerpt": "Jumbo  also known as Jumbo the Elephant and Jumbo the Circus Elephant, was a 19th-century male African bush elephant born in Sudan. Jumbo was exported to Jardin des Plantes, a zoo in Paris, and then transferred in 1865 to London Zoo in England. Despite public protest, Jumbo was sold to P. T. Barnum, who took him to the United States for exhibition in March 1882.",
+                    "is_featured": false,
+                    "likes": 33,
+                    "post_type": "movie",
+                    "name_upcoming": "",
+                    "restrict_subscription_plan": [
+                        {
+                            "id": "8269",
+                            "label": "Premium"
+                        },
+                        {
+                            "id": "8267",
+                            "label": "Basic"
+                        },
+                        {
+                            "id": "8249",
+                            "label": "Free"
+                        }
+                    ],
+                    "restrict_user_status": "loggedin",
+                    "restriction_setting": {
+                        "restrict_type": "message",
+                        "restrict_message": "You must be logged in to view this content."
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-02-15 13:22:56",
+                    "publish_date_gmt": "2019-02-15 13:22:56",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/XM0xWpBYlNM",
+                    "tag": [
+                        {
+                            "id": 218,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 239,
+                            "name": "Comedy",
+                            "slug": "comedy"
+                        },
+                        {
+                            "id": 233,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 234,
+                            "name": "Thriller",
+                            "slug": "thriller"
+                        }
+                    ],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 118,
+                            "name": "Comedy",
+                            "slug": "comedy"
+                        },
+                        {
+                            "id": 126,
+                            "name": "Dama",
+                            "slug": "dama"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 160,
+                            "name": "Mystery",
+                            "slug": "mystery"
+                        }
+                    ],
+                    "visibility": [],
+                    "run_time": "2hr : 12mins",
+                    "censor_rating": "PG-13",
+                    "release_date": "December 28, 2018",
+                    "views": 867,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Irene Mecchi,Brenda Chapman",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4.9
+                },
+                {
+                    "id": 716,
+                    "title": "Black Pearl",
+                    "image": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2019/02/movie-12-300x300.jpg",
+                    "description": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+                    "excerpt": "The Black Pearl is a fictional ship in the Pirates of the Caribbean film series. In the screenplay, the Black Pearl is easily recognized by her distinctive black hull and sails. Captained by Captain Jack Sparrow, she is said to be \"nigh uncatchable\".",
+                    "is_featured": true,
+                    "likes": 31,
+                    "post_type": "movie",
+                    "name_upcoming": "a:1:{i:0;s:3:\"yes\";}",
+                    "restrict_subscription_plan": [],
+                    "restrict_user_status": "",
+                    "restriction_setting": {
+                        "restrict_type": ""
+                    },
+                    "is_liked": null,
+                    "is_watchlist": null,
+                    "avg_rating": "0",
+                    "publish_date": "2019-02-15 13:22:55",
+                    "publish_date_gmt": "2019-02-15 13:22:55",
+                    "embed_content": "<iframe width=\"1024\" height=\"574\" src=\"https://www.youtube.com/embed/rKVEoyTedv4\" allowfullscreen></iframe>\r\n\r\n",
+                    "movie_choice": "movie_embed",
+                    "movie_file": null,
+                    "url_link": "https://youtu.be/cEZ42DwKKZw",
+                    "tag": [
+                        {
+                            "id": 231,
+                            "name": "Animation",
+                            "slug": "animation"
+                        },
+                        {
+                            "id": 239,
+                            "name": "Comedy",
+                            "slug": "comedy"
+                        },
+                        {
+                            "id": 219,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 234,
+                            "name": "Thriller",
+                            "slug": "thriller"
+                        }
+                    ],
+                    "genre": [
+                        {
+                            "id": 61,
+                            "name": "Action",
+                            "slug": "action"
+                        },
+                        {
+                            "id": 57,
+                            "name": "Adventure",
+                            "slug": "adventure"
+                        },
+                        {
+                            "id": 105,
+                            "name": "Annimation",
+                            "slug": "annimation"
+                        },
+                        {
+                            "id": 110,
+                            "name": "Biography",
+                            "slug": "biography"
+                        },
+                        {
+                            "id": 60,
+                            "name": "Drama",
+                            "slug": "drama"
+                        },
+                        {
+                            "id": 59,
+                            "name": "Family",
+                            "slug": "family"
+                        },
+                        {
+                            "id": 135,
+                            "name": "Fantacy",
+                            "slug": "fantacy"
+                        },
+                        {
+                            "id": 173,
+                            "name": "Romance",
+                            "slug": "romance"
+                        }
+                    ],
+                    "visibility": [
+                        {
+                            "id": 43,
+                            "name": "featured",
+                            "slug": "featured"
+                        }
+                    ],
+                    "run_time": "1hr : 24mins",
+                    "censor_rating": "PG",
+                    "release_date": "June 18, 2016",
+                    "views": 898,
+                    "logo": "https://iqonic.design/wp-themes/streamit_wp/wp-content/uploads/2020/10/logo.png",
+                    "cast": "Debbi Bossi,James Chinlund",
+                    "no_of_comments": 0,
+                    "trailer_link": "https://www.youtube.com/watch?v=QCGq1epI9pQ",
+                    "imdb_rating": 4
+                }
+            ]
+        }
+    ]
+}

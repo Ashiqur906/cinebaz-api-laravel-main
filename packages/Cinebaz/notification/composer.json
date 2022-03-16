@@ -1,0 +1,19 @@
+{
+  "name": "cinebaz/notification",
+  "description": "This will notification pagckage",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Hasan",
+      "email": "hm91hassan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cinebaz\\Notification\\": "src/"
+    }
+  }
+}

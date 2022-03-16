@@ -1,0 +1,19 @@
+{
+  "name": "cinebaz/admin",
+  "description": "This will admin pagckage",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Hasan",
+      "email": "hm91hassan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cinebaz\\Admin\\": "src/"
+    }
+  }
+}

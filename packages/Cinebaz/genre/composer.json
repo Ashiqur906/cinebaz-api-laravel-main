@@ -1,0 +1,19 @@
+{
+  "name": "cinebaz/genre",
+  "description": "This will genre pagckage",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohammad Hasan",
+      "email": "hm91hassan@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Cinebaz\\Genre\\": "src/"
+    }
+  }
+}
